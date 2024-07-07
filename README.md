@@ -5,6 +5,8 @@ I think it has come out pretty decent minus some cracks in the switchplate (beca
 
 If you plan on making this yourself I will try and make a guide in the future, but that might take a bit. I recommend [Ponoko](https://www.ponoko.com/) for the acrylic and [JLCPCB](https://jlcpcb.com/) for the PCB manufacturing. Everything else can be found in the BOM from either your local hardware store, [Keeb.io](https://keeb.io/) or [Divinikey](https://divinikey.com/). I chose to use some cheap keycaps and Gateron KS-9 2.0 Red switches and I like how everything feels. Anyway, if you have any questions start a issue or something B).
 
+Note 07/07/24: I still daily drive this keyboard and something I think I should mention if you plan to use KMK daily is that the CircuitPython drive will inevitably corrupt. It lasted me a good two years before it started to get weird and then I basically could not mount the drive. It’s not a big deal if it works (and honestly, I only noticed it was bad when I went to reference some code). I switched to QMK recently and it has been so much better. The build I used is based on one of my future projects and works wonders.
+
 ![final build](DOCS/IMAGES/moneyshot.JPG)
 
 ![top down](DOCS/IMAGES/topdown.JPG)
