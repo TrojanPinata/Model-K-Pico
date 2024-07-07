@@ -1,2 +1,4 @@
 # Firmware
-I used KMK for this project because python is easy. I *plan* to eventually switch over to QMK less for the advanced features and more for the cleanliness of it. I don't think I'll do it soon becuase of the way the RP2040 isn't fully supported. In the meantime, pretty much everything that can be done in QMK can be done in KMK. With exception to turning off the OLED display it seems.
+~~I used KMK for this project because python is easy. I *plan* to eventually switch over to QMK less for the advanced features and more for the cleanliness of it. I don't think I'll do it soon becuase of the way the RP2040 isn't fully supported. In the meantime, pretty much everything that can be done in QMK can be done in KMK. With exception to turning off the OLED display it seems.~~
+
+Switched to QMK and it is quite literally a equivalent to better experience. I put the keymap and uf2 here incase someone needs to flash their board.
